@@ -21,7 +21,8 @@ const App = () => {
             <section className='id-section'></section>
             <section className='name-email-section'>
               <p className='name'>Name: </p>
-              <p className='email'>Email: </p>
+              <p className='ema
+    il'>Email: </p>
             </section>
           </li>
       </div>
